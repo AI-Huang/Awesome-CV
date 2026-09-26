@@ -12,6 +12,7 @@ kan_cv_resume
 *.fls
 *.out
 *.toc
+cv.synctex.gz
 
 ## Intermediate documents:
 *.dvi
