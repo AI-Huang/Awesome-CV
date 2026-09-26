@@ -13,3 +13,9 @@ ln -s ./awesome-cv.cls ./kan_cv_resume/awesome-cv.cls
 
 - 直接复制粘贴模板文件
 - 使用微软雅黑字体
+
+## 
+
+```bash
+\setCJKmainfont{Microsoft YaHei}
+```
